@@ -1,4 +1,4 @@
-[![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https:///ashumishra72.io)
+[![Masterhead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGE4eGYzOXI1MTZiZG0zeDZnaHp4d2k5ODh6NXB3eDg0Z2RyOGdvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif))](https:///ashumishra72.io)
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
