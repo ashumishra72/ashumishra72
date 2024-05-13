@@ -40,3 +40,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashumishra72&show_icons=true&locale=en" alt="ashumishra72" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashumishra72&" alt="ashumishra72" /></p>
+<!-- Profile View Counter -->
+![](https://komarev.com/ghpvc/?username=ashumishra72&color=blueviolet)
+
