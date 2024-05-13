@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashumishra72.github.io/ashutoshmishra.com/#](https://ashumishra72.github.io/ashutoshmishra.com/#)
 
-- 📝 I regularly write articles on [mediu,.com/@ashutoshmishra1317](mediu,.com/@ashutoshmishra1317)
+- 📝 I regularly write articles on [medium.com/@ashutoshmishra1317](medium.com/@ashutoshmishra1317)
 
 - 💬 Ask me about **Machine Learning , AI, Python, Electrical Engineering Subjects**
 
